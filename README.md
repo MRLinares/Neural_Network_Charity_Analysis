@@ -10,15 +10,27 @@ Within the framework of machine learning and neural networks, use the features i
 
 Given the dataset and the ask of the challenege<br><br>
 &ensp;&ensp;&ensp;&nbsp;&nbsp;***Target Variable:***
-* 'IS_SUCCESSFUL' <br><br>
+* 'IS_SUCCESSFUL' —Was the money used effectively? <br><br>
 ***Feature Variables:*** <br><br>
-* 'APPLICATION_TYPE' 
-* 'CLASSIFICATION'
-* 'USE_CASE' 
-* 'STATUS'
-* 'INCOME_AMT'
-* 'SPECIAL_CONSIDERATIONS'
-* 'ASK_AMT' <br><br>
-***Neither Feature Nor Target:*** <br><br>
-* 'NAME'
-* 'EIN'
+* 'APPLICATION_TYPE' —Alphabet Soup application type
+* 'CLASSIFICATION' —Government organization classification
+* 'USE_CASE' —Use case for funding
+* 'STATUS' —Active status
+* 'INCOME_AMT' —Income classification(specified as a range)
+* 'SPECIAL_CONSIDERATIONS' —Special consideration for application
+* 'ASK_AMT' —Funding amount requested<br><br>
+***Neither Feature Nor Target***(Must be removed)***:*** <br><br>
+* 'NAME' —Identification column
+* 'EIN' —Identification column
+***Neurons:*** <br><br>
+* Input Features - 43
+* Hidden Layer 1 - 80
+* Hidden Layer 2 - 30 <br><br>
+***Layers:*** <br><br>
+* 2 Hidden Layers <br><br>
+***Activation Functions:*** <br><br>
+* ReLu
+* Sigmoid <br><br>
+***Highest Model Performance:*** <br><br>
+* 72.886% (Failed to meet target performance of 75%) <br><br>
+***Optimization Steps:*** <br><br>
