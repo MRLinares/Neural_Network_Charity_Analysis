@@ -9,7 +9,7 @@ Within the framework of machine learning and neural networks, use the features i
 ## Results
 
 Given the dataset and the ask of the challenege<br><br>
-&ensp;&ensp;&ensp;&nbsp;***Target Variable:***
+&ensp;&ensp;&ensp;&nbsp;&nbsp;***Target Variable:***
 * 'IS_SUCCESSFUL' <br><br>
 ***Feature Variables:*** <br><br>
 * 'APPLICATION_TYPE' 
@@ -19,3 +19,6 @@ Given the dataset and the ask of the challenege<br><br>
 * 'INCOME_AMT'
 * 'SPECIAL_CONSIDERATIONS'
 * 'ASK_AMT' <br><br>
+***Neither Feature Nor Target:*** <br><br>
+* 'NAME'
+* 'EIN'
