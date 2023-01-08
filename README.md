@@ -8,4 +8,14 @@ Within the framework of machine learning and neural networks, use the features i
 
 ## Results
 
-Given the dataset and the ask of the challenege, it became apparent that the variable 'IS_SUCCESSFUL' would be the target for the model and the variables that would be the features for the model are APPLICATION_TYPE, CLASSIFICATION, USE_CASE, INCOME_AMT, AND ASK_AMT.
+Given the dataset and the ask of the challenege<br><br>
+&ensp;&ensp;&ensp;&nbsp;***Target Variable:***
+* 'IS_SUCCESSFUL' <br><br>
+***Feature Variables:*** <br><br>
+* 'APPLICATION_TYPE' 
+* 'CLASSIFICATION'
+* 'USE_CASE' 
+* 'STATUS'
+* 'INCOME_AMT'
+* 'SPECIAL_CONSIDERATIONS'
+* 'ASK_AMT' <br><br>
