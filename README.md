@@ -34,3 +34,6 @@ Given the dataset and the ask of the challenege<br><br>
 ***Highest Model Performance:*** <br><br>
 * 72.886% (Failed to meet target performance of 75%) <br><br>
 ***Optimization Steps:*** <br><br>
+
+<img width="532" alt="density_plot" src="https://user-images.githubusercontent.com/108758105/211225526-0c867552-1b78-4e69-a38f-02217c6f476f.png">
+
