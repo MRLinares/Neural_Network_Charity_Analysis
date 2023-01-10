@@ -60,3 +60,6 @@ Given the dataset and the ask of the challenege<br><br>
 ![slower_optimizer](https://user-images.githubusercontent.com/108758105/211679727-90af6163-c096-4f92-8a8a-d107c49b0c96.png)
 
 # Summary
+
+&ensp;&ensp;&ensp;With the model hovering around 73% accuracy, I was sure I'd find a way to get the model over 75%.  I changed the application and class counts various times with the number barely budging.  I then moved on to different activations.  I remember how changing the activation in the neural network visual webpage drastically changed efficiency in different scenarios, but it didn't seem to work.  Leaky Relu wasn't even part of the Keras library and I had to define it outside of the layer code.\
+&ensp;&ensp;&ensp;While I am sure there may be a strategy to improve the accuracy of the model, I wan't able to find it.  This model's 74% accuracy, however, is impressive and I would move forward with full confidence in applying this algorithm to Alphabet Soup's search for investments.
